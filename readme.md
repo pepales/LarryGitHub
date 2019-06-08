@@ -2,4 +2,6 @@
 
 Esta saga de libros cuentan la historia de un hacker excepcional.
 
-**Jose Luis**, Git fan.
+<<<<<<< HEAD
+**Jose Luis**, Git & Larry Plotter fan.
+
